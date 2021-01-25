@@ -42,7 +42,7 @@ sh ../scripts/iclr_19.sh
 
 ## Citation
 
-Please cite the following paper when using RecovDB:
+Please cite the following paper when using PGPR:
 ``` bash
 @inproceedings{arous2021www,
   title={Peer Grading the Peer Reviews: A Dual-Role Approach for Lightening the Scholarly Paper Review Process},
