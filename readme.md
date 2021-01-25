@@ -39,3 +39,16 @@ To precit conformity of reviews from ICLR 2019, you can use the script: iclr_19.
 cd code
 sh ../scripts/iclr_19.sh
 ```
+
+## Citation
+
+Please cite the following paper when using RecovDB:
+``` bash
+@inproceedings{arous2021www,
+  title={Peer Grading the Peer Reviews: A Dual-Role Approach for Lightening the Scholarly Paper Review Process},
+  author={Arous, Ines and Yang, Jie and Khayati, Mourad and Cudr{\'e}-Mauroux, Philippe},
+  booktitle={Proceedings of the Web Conference (WWW 2021)},
+  year={2021},
+  address={Ljubljana, Slovenia},
+}
+```
