@@ -12,7 +12,7 @@ source env-pgpr/bin/activate
 ### 2. Install requirements
 After cloning this repository, navigate inside it:
 ``` bash
-git clone https://webconf_pgpr@bitbucket.org/webconf_pgpr/pgpr.git
+git clone https://github.com/eXascaleInfolab/pgpr.git
 cd pgpr
 ```
 Install all requirements using the following command:
