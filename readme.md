@@ -27,7 +27,7 @@ conda install pytorch torchvision cudatoolkit=9.2 -c pytorch
 ```
 
 ## Running PGPR
-To precit conformity of reviews from ICLR 2018, you can use the script: iclr_18.sh in the scripts folder
+To predict conformity of reviews from ICLR 2018, you can use the script: iclr_18.sh in the scripts folder
 ``` bash
 cd code
 sh ../scripts/iclr_18.sh
