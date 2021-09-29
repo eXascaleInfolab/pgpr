@@ -34,7 +34,7 @@ sh ../scripts/iclr_18.sh
 ```
 
 
-To precit conformity of reviews from ICLR 2019, you can use the script: iclr_19.sh in the scripts folder
+To predict conformity of reviews from ICLR 2019, you can use the script: iclr_19.sh in the scripts folder
 ``` bash
 cd code
 sh ../scripts/iclr_19.sh
